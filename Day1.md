@@ -1,6 +1,6 @@
 # Afternoon Class
 
-### Video [link]{https://www.youtube.com/watch?v=rKl4-zC1WZs} 
+### Video
 
 From the video, we learned how Iron Man collects data. The first one is "Hit", so we can know the characteristics, such as speed and distance. 
 The second one is "Training". From the training data, we have x (independent features/variables) and y(target).
