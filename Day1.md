@@ -2,13 +2,11 @@
 
 ### Video
 
-From the video, we learned how Iron Man collects data. The first one is "Hit", so we can know the characteristics, such as speed and distance. 
-The second one is "Training". From the training data, we have x (independent features/variables) and y(target).
-The third one is "Action", so Iron Man will either choose to step aside or block himself.
+From the video, we learned how Iron Man has the greatest abilities. First, he must perceive the characteristics of the hit, such as the speed and distance. Second, he will estimate the extent of the danger of the hit. Third, he reacts to the hit according to previous training.
 
 ### Supervised Learning
 
-Given explanatory variable(x) and response variable (y). The machine may learn from x and predict y.
+Each variable/features(x) has a response variable(y). It can predict y value upon the x value.
 
 ### Pipeline (2 Stages)
 
@@ -22,8 +20,7 @@ Examples: Linear Regression or Logistic Regression or Neural Network.
 
 ### Regression or Classification
 
-We also learned something about not only quantitive data (discrete and continuous) but also the differences of regression and classification. Specifically, we use regression to predict Y if it's continuous, and classification to predict Y if it's discrete. 
-(Hint: X can be either continuous and discrete, it doesn't matter.)
+We learned something about discrete and continuous data, as well as the differences of regression and classification. If Y is countinuous, regression can be used to predict Y. Otherwise, classfication should be used to predict Y.
 
 ### R
 
